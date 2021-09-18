@@ -45,9 +45,7 @@ p{
 }
 #particleSelect p{
   margin-left: 10%;
-  /* margin-top: 80%; */
   font-size: 0.9em;
-  /* text-align: left; */
 }
 .selected{
   border-sizing: bounding-box;

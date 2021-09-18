@@ -1,5 +1,4 @@
 - add instructions
-- show molar mass of each selection
 - fix scale (uranium >> heavy, but same amount shown on screen)
 - make the thing look more like a scale
 
