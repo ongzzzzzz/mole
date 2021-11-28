@@ -1,6 +1,7 @@
 ### note
 a huge part of this project was based off of this amazing p5 sketch https://editor.p5js.org/EthanHermsey/sketches/6_mK9IQCF
 
+### todos
 - add instructions
 - fix scale (uranium >> heavy, but same amount shown on screen)
 - make the thing look more like a scale
