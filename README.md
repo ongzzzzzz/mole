@@ -1,4 +1,4 @@
-play with the simulation here --> https://mole.fogeinator.repl.co/
+play with the simulation here --> https://mole.ongzz.repl.co/
 
 ### note
 a huge part of this project was based off of this amazing p5 sketch https://editor.p5js.org/EthanHermsey/sketches/6_mK9IQCF
